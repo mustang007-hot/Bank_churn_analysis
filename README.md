@@ -55,6 +55,7 @@ Bank Churn Data : Download from [Kaggle](www.kaggle.com)
 We analyzed how individual and pairs of features relate to the target variable (Exited):
 
 
+
 - Geographic Analysis: This produced the project's most significant finding, illustrating a stark difference in churn rates across countries. Germany showed a much higher rate of attrition compared to France and Spain, suggesting an external or regional factor at play.
 
 - Financial Features: Examined the relationship between churn and monetary variables:
