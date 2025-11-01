@@ -50,11 +50,10 @@ Bank Churn Data : Download from [Kaggle](www.kaggle.com)
 
 - Initial Review: Inspected data types, checked for missing values (nulls), and assessed the cardinality of categorical features. The dataset was found to be exceptionally clean, with no significant missing data, allowing us to focus immediately on statistical relationships.
 
-- Target Imbalance: Visualized the distribution of the target variable (Exited). The analysis confirmed a significant class imbalance, which is critical knowledge for selecting appropriate model evaluation metrics (e.g., focusing on AUC-ROC and Precision/Recall over simple Accuracy).
-
 2. Univariate and Bivariate Analysis
 
 We analyzed how individual and pairs of features relate to the target variable (Exited):
+
 
 - Geographic Analysis: This produced the project's most significant finding, illustrating a stark difference in churn rates across countries. Germany showed a much higher rate of attrition compared to France and Spain, suggesting an external or regional factor at play.
 
