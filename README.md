@@ -14,6 +14,8 @@
 
 - [Recommendations Based On Bank Churn EDA](#recommendations-based-on-bank-churn-eda)
 
+- [References](#references)
+
 ### Project Overview
 
 This repository contains a comprehensive data science project focused on predicting and understanding customer churn within a retail bank's customer base. The primary goals were to build a reliable machine learning model to flag at-risk customers and, crucially, to uncover the underlying factors that drive customer attrition.
@@ -51,9 +53,7 @@ Bank Churn Data : Download from [Kaggle](www.kaggle.com)
 - Initial Review: Inspected data types, checked for missing values (nulls), and assessed the cardinality of categorical features. The dataset was found to be exceptionally clean, with no significant missing data, allowing us to focus immediately on statistical relationships.
 
 2. Univariate and Bivariate Analysis
-
 We analyzed how individual and pairs of features relate to the target variable (Exited):
-
 
 
 - Geographic Analysis: This produced the project's most significant finding, illustrating a stark difference in churn rates across countries. Germany showed a much higher rate of attrition compared to France and Spain, suggesting an external or regional factor at play.
@@ -123,8 +123,8 @@ Value Proposition Review: Analyze the value proposition for the mid-tier balance
 Tiered Service: Introduce a new service tier or rewards program designed to reward and stabilize customers whose balances fall into the identified high-risk range.
 
 By focusing retention resources on these segments—especially German customers aged 40+ with single products and mid-range balances—the bank can achieve the most immediate and significant impact on reducing customer attrition.
-
-
-
-
 Geographic Impact: The analysis revealed a disproportionately high churn rate in the Germany segment, accounting for 39.33% of all customer exits in the dataset. This finding suggests an urgent need for targeted retention strategies and deeper local investigation in that region.
+
+#### References
+- [kaggle](www.kaggle.com)
+- <b>EXCEL</b>
