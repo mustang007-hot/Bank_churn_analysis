@@ -17,6 +17,7 @@
 - [References](#references)
 
 ### Project Overview
+---
 
 This repository contains a comprehensive data science project focused on predicting and understanding customer churn within a retail bank's customer base. The primary goals were to build a reliable machine learning model to flag at-risk customers and, crucially, to uncover the underlying factors that drive customer attrition.
 
@@ -25,11 +26,12 @@ The dataset includes customer demographics, Estimated Salary, Credit Score, Age 
 ### Data Source 
 Bank Churn Data : Download from [Kaggle](www.kaggle.com)
 
-#### Tools
+### Tools
 - <b>EXCEL</b> - Data Cleaning, Pivot tables, Visualization, Power Query, Excel Charts
 
 
 #### Analytical Questions Asked During the EDA
+---
 -Data Quality: What is the structure of the dataset, and does it contain any critical data quality issues (e.g., missing values, incorrect data types) that need cleaning before modeling?
 
 -Target Imbalance: What is the distribution of the target variable (Exited), and how significant is the class imbalance (churn vs. non-churn)?
@@ -47,6 +49,7 @@ Bank Churn Data : Download from [Kaggle](www.kaggle.com)
 -Feature Distribution: Do continuous features (Age, Balance, EstimatedSalary) exhibit normal distributions, and are there significant outliers that could impact model training?
 
 #### Key Steps and Insights Gained
+---
 
 1. Data Structure and Quality Assessment
 
@@ -80,6 +83,7 @@ The insights gained from this EDA directly fueled the creation of new features (
 
 #### Recommendations Based on Bank Churn EDA
 
+---
 The Exploratory Data Analysis revealed several critical segments and features that drive customer attrition. These recommendations focus on maximizing retention efforts where the risk is highest.
 
 1. Geographical Remediation (Highest Priority)
@@ -126,5 +130,6 @@ By focusing retention resources on these segments—especially German customers 
 Geographic Impact: The analysis revealed a disproportionately high churn rate in the Germany segment, accounting for 39.33% of all customer exits in the dataset. This finding suggests an urgent need for targeted retention strategies and deeper local investigation in that region.
 
 #### References
+---
 - [kaggle](www.kaggle.com)
 - <b>EXCEL</b>
