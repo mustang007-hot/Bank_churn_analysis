@@ -16,6 +16,7 @@
 
 - [References](#references)
 
+
 ### Project Overview
 ---
 
@@ -64,7 +65,7 @@ We analyzed how individual and pairs of features relate to the target variable (
 - Financial Features: Examined the relationship between churn and monetary variables:
 
 - Balance: Customers with very low or very high balances were less likely to churn, while those in the middle range showed the highest risk.
-
+  
 - Credit Score: A slight trend showed that customers with extremely low credit scores were more likely to churn, though the effect was not linear.
 
 <b>Demographic & Behavioral Features:</b>
