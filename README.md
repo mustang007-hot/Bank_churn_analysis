@@ -20,9 +20,10 @@
 ### Project Overview
 ---
 
-This repository contains a comprehensive data science project focused on predicting and understanding customer churn within a retail bank's customer base. The primary goals were to build a reliable machine learning model to flag at-risk customers and, crucially, to uncover the underlying factors that drive customer attrition.
+This repository contains a comprehensive data science project focused on predicting and understanding customer churn within a retail bank's customer base. The primary goals were to use EDA(Exporatory Data Analysis) to flag at-risk customers and, crucially, to uncover the underlying factors that drive customer attrition(churn).
 
 The dataset includes customer demographics, Estimated Salary, Credit Score, Age and Card-type.
+![cleaned data](https://github.com/user-attachments/assets/a4cfbe55-4576-4d7b-b597-f16690af3ae5)
 
 ### Data Source 
 Bank Churn Data : Download from [Kaggle](www.kaggle.com)
