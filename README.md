@@ -56,13 +56,19 @@ Bank Churn Data : Download from [Kaggle](www.kaggle.com)
 
 - Initial Review: Inspected data types, checked for missing values (nulls), and assessed the cardinality of categorical features. The dataset was found to be exceptionally clean, with no significant missing data, allowing us to focus immediately on statistical relationships.
 
+![fb91d61eec2b433a84a8f259587c4cbb](https://github.com/user-attachments/assets/5b6f78d9-00bf-4df7-a0ec-675621ea1099)
+
+![cleaned data](https://github.com/user-attachments/assets/70baf4f9-a56b-4401-8a00-69b99b6d84b6)
 2. Univariate and Bivariate Analysis
 We analyzed how individual and pairs of features relate to the target variable (Exited):
+
 
 
 - Geographic Analysis: This produced the project's most significant finding, illustrating a stark difference in churn rates across countries. Germany showed a much higher rate of attrition compared to France and Spain, suggesting an external or regional factor at play.
 
 - Financial Features: Examined the relationship between churn and monetary variables:
+- ![pivot_tables](https://github.com/user-attachments/assets/554af60c-41c4-449f-9b22-fbe987eaecf5)
+
 
 - Balance: Customers with very low or very high balances were less likely to churn, while those in the middle range showed the highest risk.
   
