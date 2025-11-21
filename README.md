@@ -65,6 +65,7 @@ We analyzed how individual and pairs of features relate to the target variable (
 
 
 - Geographic Analysis: This produced the project's most significant finding, illustrating a stark difference in churn rates across countries. Germany showed a much higher rate of attrition compared to France and Spain, suggesting an external or regional factor at play.
+![G3kENSrWQAANhzn](https://github.com/user-attachments/assets/76e8ed01-d6d4-437e-9e0b-1579d8096ad7)
 
 - Financial Features: Examined the relationship between churn and monetary variables:
 - ![pivot_tables](https://github.com/user-attachments/assets/554af60c-41c4-449f-9b22-fbe987eaecf5)
