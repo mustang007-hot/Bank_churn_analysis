@@ -21,13 +21,17 @@
 ### Project Overview
 ---
 
-This repository contains a comprehensive data analysis project (<b>EDA</b>) focused on annalysing and understanding customer churn within a retail bank's customer base. The primary goals were to use EDA(Exporatory Data Analysis) to flag at-risk customers and, crucially, to uncover the underlying factors that drive customer attrition(churn).
+This repository contains a comprehensive data analysis project (<b>EDA</b>) focused on analysing and understanding customer churn within a retail bank's customer base. The primary goals were to use EDA(Exporatory Data Analysis) to flag at-risk customers and, crucially, to uncover the underlying factors that drive customer attrition(churn).
 
 The dataset includes customer demographics, Estimated Salary, Credit Score, Age and Card-type.
+
+
 ### Data Source
+---
 Bank Churn Data : Download from [Kaggle](www.kaggle.com)
 
 ### Tools
+---
 - <b>EXCEL</b> - Data Cleaning, Pivot tables, Visualization, Power Query, Excel Charts
 
 
